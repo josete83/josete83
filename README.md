@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @josete83
+- 👀 I’m interested in Microsoft .Net
+- 🌱 I’m currently learning asp.net, C#
+- 💞️ I’m looking to collaborate on programming geeks
+- 📫 How to reach me: joseantonio.martin@trescal.com
